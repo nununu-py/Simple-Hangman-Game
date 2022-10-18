@@ -288,6 +288,7 @@ print(chosen_word)
 display_word = ["_" for index in range(len(chosen_word))]
 print(display_word)
 
+print(logo)
 
 attempt = 7
 start_game = True
